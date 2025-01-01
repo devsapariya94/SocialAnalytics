@@ -1,0 +1,218 @@
+[
+      {
+        "channel_id": "UCWX0cUR2rZcqKei1Vstww-A",
+        "analysis_period_days": 30,
+        "analysis_date": "2025-01-01T09:35:51.573841",
+        "overall_stats": {
+          "total_videos": 8,
+          "total_views": 889760,
+          "total_likes": 38270,
+          "total_comments": 2548
+        },
+        "content_type_analysis": {
+          "Video": {
+            "count": 6,
+            "total_views": 715791,
+            "total_likes": 32826,
+            "total_comments": 2456,
+            "average_views": 119298.5,
+            "average_likes": 5471.0,
+            "average_comments": 409.33,
+            "engagement_rate": 4.93,
+            "top_videos": [
+              {
+                "video_id": "zKd_kxcxGbo",
+                "title": "Mediocrity is Rising | Raw and real talk before 2024 ends.",
+                "published_at": "2024-12-07T12:30:53Z",
+                "views": 327734,
+                "likes": 19300,
+                "comments": 1056,
+                "duration": "PT20M40S",
+                "type": "Video",
+                "url": "https://youtube.com/watch?v=zKd_kxcxGbo"
+              },
+              {
+                "video_id": "z7Uv_A4bG-U",
+                "title": "High Paying Technologies I am learning in 2025",
+                "published_at": "2024-12-24T15:01:22Z",
+                "views": 139005,
+                "likes": 4590,
+                "comments": 388,
+                "duration": "PT25M48S",
+                "type": "Video",
+                "url": "https://youtube.com/watch?v=z7Uv_A4bG-U"
+              },
+              {
+                "video_id": "_Kp_XZV2W0k",
+                "title": "Devin will take your job soon? 500$/month for a coding assistant!",
+                "published_at": "2024-12-12T13:15:04Z",
+                "views": 81965,
+                "likes": 1845,
+                "comments": 231,
+                "duration": "PT56M7S",
+                "type": "Video",
+                "url": "https://youtube.com/watch?v=_Kp_XZV2W0k"
+              },
+              {
+                "video_id": "-eDkV9yMBF0",
+                "title": "17 Placements, 7 Rejections : Super 30 Journey So Far",
+                "published_at": "2024-12-02T12:45:27Z",
+                "views": 74290,
+                "likes": 2697,
+                "comments": 204,
+                "duration": "PT19M50S",
+                "type": "Video",
+                "url": "https://youtube.com/watch?v=-eDkV9yMBF0"
+              },
+              {
+                "video_id": "Cs2g2VFWtbo",
+                "title": "A Day in the Life of Chasing Dreams",
+                "published_at": "2024-12-28T12:00:22Z",
+                "views": 66163,
+                "likes": 3624,
+                "comments": 386,
+                "duration": "PT11M46S",
+                "type": "Video",
+                "url": "https://youtube.com/watch?v=Cs2g2VFWtbo"
+              }
+            ]
+          },
+          "Short": {
+            "count": 0,
+            "total_views": 0,
+            "total_likes": 0,
+            "total_comments": 0,
+            "average_views": 0,
+            "average_likes": 0,
+            "average_comments": 0,
+            "engagement_rate": 0,
+            "top_videos": []
+          },
+          "Live": {
+            "count": 2,
+            "total_views": 173969,
+            "total_likes": 5444,
+            "total_comments": 92,
+            "average_views": 86984.5,
+            "average_likes": 2722.0,
+            "average_comments": 46.0,
+            "engagement_rate": 3.18,
+            "top_videos": [
+              {
+                "video_id": "gGHaXVO-9j4",
+                "title": "Coding in Super 30 office and office tour. Coding till 500k",
+                "published_at": "2024-12-16T23:38:53Z",
+                "views": 98494,
+                "likes": 3069,
+                "comments": 70,
+                "duration": "PT6H22M10S",
+                "type": "Live",
+                "url": "https://youtube.com/watch?v=gGHaXVO-9j4"
+              },
+              {
+                "video_id": "O2A4DcblBlc",
+                "title": "Streaming till 2025",
+                "published_at": "2024-12-31T21:36:03Z",
+                "views": 75475,
+                "likes": 2375,
+                "comments": 22,
+                "duration": "PT5H49M5S",
+                "type": "Live",
+                "url": "https://youtube.com/watch?v=O2A4DcblBlc"
+              }
+            ]
+          }
+        },
+        "all_videos": [
+          {
+            "video_id": "O2A4DcblBlc",
+            "title": "Streaming till 2025",
+            "published_at": "2024-12-31T21:36:03Z",
+            "views": 75475,
+            "likes": 2375,
+            "comments": 22,
+            "duration": "PT5H49M5S",
+            "type": "Live",
+            "url": "https://youtube.com/watch?v=O2A4DcblBlc"
+          },
+          {
+            "video_id": "Cs2g2VFWtbo",
+            "title": "A Day in the Life of Chasing Dreams",
+            "published_at": "2024-12-28T12:00:22Z",
+            "views": 66163,
+            "likes": 3624,
+            "comments": 386,
+            "duration": "PT11M46S",
+            "type": "Video",
+            "url": "https://youtube.com/watch?v=Cs2g2VFWtbo"
+          },
+          {
+            "video_id": "z7Uv_A4bG-U",
+            "title": "High Paying Technologies I am learning in 2025",
+            "published_at": "2024-12-24T15:01:22Z",
+            "views": 139005,
+            "likes": 4590,
+            "comments": 388,
+            "duration": "PT25M48S",
+            "type": "Video",
+            "url": "https://youtube.com/watch?v=z7Uv_A4bG-U"
+          },
+          {
+            "video_id": "sCjoxrk4h54",
+            "title": "Online Degree = Scam? | IIT Madras Seminar 2024",
+            "published_at": "2024-12-19T15:45:01Z",
+            "views": 26634,
+            "likes": 770,
+            "comments": 191,
+            "duration": "PT46M30S",
+            "type": "Video",
+            "url": "https://youtube.com/watch?v=sCjoxrk4h54"
+          },
+          {
+            "video_id": "gGHaXVO-9j4",
+            "title": "Coding in Super 30 office and office tour. Coding till 500k",
+            "published_at": "2024-12-16T23:38:53Z",
+            "views": 98494,
+            "likes": 3069,
+            "comments": 70,
+            "duration": "PT6H22M10S",
+            "type": "Live",
+            "url": "https://youtube.com/watch?v=gGHaXVO-9j4"
+          },
+          {
+            "video_id": "_Kp_XZV2W0k",
+            "title": "Devin will take your job soon? 500$/month for a coding assistant!",
+            "published_at": "2024-12-12T13:15:04Z",
+            "views": 81965,
+            "likes": 1845,
+            "comments": 231,
+            "duration": "PT56M7S",
+            "type": "Video",
+            "url": "https://youtube.com/watch?v=_Kp_XZV2W0k"
+          },
+          {
+            "video_id": "zKd_kxcxGbo",
+            "title": "Mediocrity is Rising | Raw and real talk before 2024 ends.",
+            "published_at": "2024-12-07T12:30:53Z",
+            "views": 327734,
+            "likes": 19300,
+            "comments": 1056,
+            "duration": "PT20M40S",
+            "type": "Video",
+            "url": "https://youtube.com/watch?v=zKd_kxcxGbo"
+          },
+          {
+            "video_id": "-eDkV9yMBF0",
+            "title": "17 Placements, 7 Rejections : Super 30 Journey So Far",
+            "published_at": "2024-12-02T12:45:27Z",
+            "views": 74290,
+            "likes": 2697,
+            "comments": 204,
+            "duration": "PT19M50S",
+            "type": "Video",
+            "url": "https://youtube.com/watch?v=-eDkV9yMBF0"
+          }
+        ]
+      }
+
+]
